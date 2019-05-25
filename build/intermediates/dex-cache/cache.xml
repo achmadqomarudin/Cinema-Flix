@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/bfc1801462ac5e6d979ee3a794c7cd4da79c66c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9773e1369a08ff3c1e8a52e254fb0c5f0809fa4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/dfc2557718a4435da049ed016e4ffa378e67438b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e33d9b0b07ba1e2c86e9c6fd393f0361c7b194c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/eb829d3dae1f355da83fc0f4d11ac3c4b9aa9c34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_807ce6fb8f14e8c490a71387ab4c358473b6d48f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/d2a176602557015de4cb0a54ccf1dfd6074d07a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_055a6832d2ee042a5a90597fd28fe686bfca999e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/63339dfffbb1238e300d5943b143a558b71a583c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8ba2cb26b8e4558edf4ba902a420637d274f320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_ecf560091881ea5fcbb1024d6ccfd0232e028175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3efb7cf52f415af0407f01d9b387cd34ba3d55bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e4baa89b4c49229a2e76948cd22160fa60af6db">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1b4961192f7155a6386dec36f8454e34d7f6f34e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/5a884b8058552785ed224b0eaefe74168c9e29cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9934a63f8bbbd56cf6d1a2054416498054d46d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/a002337ceef478d3be755ed36eb8e0fc2cc2e6cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37a8ddaabe0a6c0871571e444fd4d027dd702f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/73969fc69442de174c66a0d343627a1384266f01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6343dcf9f89e899fdd6a349e204c6d54fb7e2e05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_1c38ee365fb06ce7c3e167897e60a034da8a8b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_95e2268636a1b1109f35286edc42e39f1002fa16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/965558bbcb1f1fd13d5e6865f3c91fc9a92b264b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0acc4a164fb02f7bfcec62defb8ab41fe9141846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/69e1e6cbecc769d009f823037e32dffce7092a35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64376ffddbfb5a5f4afb2317cd5139e669f39409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/86042c9a019aa9d02aa74d9703c3c48e706ec3ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78ca1809bbaa05a140f302899f45e2b311b81519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_6a593dc515d848d21ab47d81c158a18bbc83c396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/31d3faf03e1b224d8f1850eb2fa569d3f32d6add/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417437d74029fbddf0764a6d09fb79187bd51f02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achmad/.android/build-cache/b959059cc8910633dadd8b6f26e527b2d4a13b9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/media/achmad/aa68c288-ce3e-41ee-8988-dfd1783882b11/Android Project/CinemaFlix/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ebf1c54e5d7b6cfce0f0b0829f605e59022b379/classes.dex" />
+    </item>
+
+</items>
